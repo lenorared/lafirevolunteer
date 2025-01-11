@@ -1,0 +1,12 @@
+.content {
+    margin: 0 auto;
+    background-color: rgb(218, 205, 242);
+    text-align: center;
+    height: 100vh;
+    padding-top: 3em;
+}
+
+a {
+    display: block;
+    margin: 20px auto;
+}
